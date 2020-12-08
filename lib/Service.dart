@@ -5,7 +5,7 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:http/http.dart' as http;
 
 final String serverToken =
-    'AAAAz0YjmUQ:APA91bFdsoeGcW0TXY8rwq5HaY0iN3Tc8L1Bv9whPuZXJLPgBlFtoYd3JDrrlALnce90qQ1wnujFdtIOShjBSFjXIytaDIy4zAh-R-xATr48vTePuY1tn0LoegvxTzAGxDTcf7jxRzIq';
+    'add your server token or id here';
 final FirebaseMessaging fcm = new FirebaseMessaging();
 final url = 'https://fcm.googleapis.com/fcm/send';
 
